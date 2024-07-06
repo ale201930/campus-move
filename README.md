@@ -24,7 +24,10 @@ cd campus-move
 ## Instalar dependencias
 ```bash
 npm install
+npm run dev
 ```
+Abrir http://localhost:3000/ para dar uso a la aplicación clonada
+
 ## Instalación de Ganache y MetaMask
 
 ### Instalación de Ganache
@@ -97,20 +100,4 @@ Supongamos que estás conectado a la primera dirección de Ganache. Puedes utili
 
 Una vez completada la transacción, el vehículo se transferirá a tu cuenta y recibirás una confirmación en la aplicación.
 
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
