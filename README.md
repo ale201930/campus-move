@@ -46,7 +46,7 @@ MetaMask es una extensión de navegador que actúa como una billetera de criptom
 1. Visita la página de MetaMask: [https://metamask.io/](https://metamask.io/).
 2. Haz clic en "Download" y selecciona la versión adecuada para tu navegador (Chrome, Firefox, Brave, Edge).
 3. Sigue las instrucciones para instalar la extensión en tu navegador.
-4. 
+   
 ### Configuración de Ganache y MetaMask
 
 #### Iniciar Ganache
